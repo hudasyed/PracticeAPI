@@ -1,0 +1,9 @@
+C:\Users\huda\Documents\GitHub\PracticeAPI\bin\Debug\netcoreapp1.1\PracticeAPI.deps.json
+C:\Users\huda\Documents\GitHub\PracticeAPI\bin\Debug\netcoreapp1.1\PracticeAPI.runtimeconfig.json
+C:\Users\huda\Documents\GitHub\PracticeAPI\bin\Debug\netcoreapp1.1\PracticeAPI.runtimeconfig.dev.json
+C:\Users\huda\Documents\GitHub\PracticeAPI\bin\Debug\netcoreapp1.1\PracticeAPI.dll
+C:\Users\huda\Documents\GitHub\PracticeAPI\obj\Debug\netcoreapp1.1\PracticeAPI.csprojResolveAssemblyReference.cache
+C:\Users\huda\Documents\GitHub\PracticeAPI\obj\Debug\netcoreapp1.1\PracticeAPI.AssemblyInfo.cs
+C:\Users\huda\Documents\GitHub\PracticeAPI\bin\Debug\netcoreapp1.1\PracticeAPI.pdb
+C:\Users\huda\Documents\GitHub\PracticeAPI\obj\Debug\netcoreapp1.1\PracticeAPI.dll
+C:\Users\huda\Documents\GitHub\PracticeAPI\obj\Debug\netcoreapp1.1\PracticeAPI.pdb
